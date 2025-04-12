@@ -27,7 +27,7 @@ svg {
 }
 
 .card-title{
-  width:50%;display: flex;justify-content: center;background-image:url(../assets/images/transport.jpg);height: 99vh;
+  width:50%;display: flex;justify-content: center;height: 99vh;
 }
 
 .head-title{
